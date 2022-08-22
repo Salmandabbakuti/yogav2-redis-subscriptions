@@ -8,8 +8,7 @@ Nodejs GraphQL Boilerplate
 
 ```
 npm i
-npm run linter # checks for linter errors
-npm run dev
+npm start
 ```
 
 2. Navigate to `http://localhost:4000` and follow API Docs
